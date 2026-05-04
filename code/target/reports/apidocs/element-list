@@ -1,0 +1,7 @@
+taskmanager
+taskmanager.api
+taskmanager.exception
+taskmanager.external
+taskmanager.impl
+taskmanager.model
+taskmanager.ui

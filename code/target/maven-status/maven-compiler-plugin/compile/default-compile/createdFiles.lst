@@ -1,0 +1,17 @@
+taskmanager\impl\DefaultTaskManager.class
+taskmanager\impl\DefaultTaskManagerBuilder.class
+taskmanager\model\ScheduleRecommendation.class
+taskmanager\exception\TaskNotFoundException.class
+taskmanager\exception\WeatherAPIException.class
+taskmanager\model\Task.class
+taskmanager\api\TaskManager.class
+taskmanager\external\WeatherApiClient.class
+taskmanager\api\ScheduleRecommendation.class
+taskmanager\impl\SchedulePlannerImpl.class
+taskmanager\api\SchedulePlanner.class
+taskmanager\Main.class
+taskmanager\api\TaskManager$TaskManagerBuilder.class
+taskmanager\api\TaskService.class
+taskmanager\impl\DefaultTaskService.class
+taskmanager\exception\InvalidTaskException.class
+taskmanager\model\WeatherForecast.class
